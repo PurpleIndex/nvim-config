@@ -3,7 +3,7 @@ vim.opt.relativenumber = true
 
 vim.opt.compatible = false
 
-vim.opt.ignorecase = true
+vim.opt.ignorecase = false
 vim.opt.smartcase = true
 
 vim.opt.autoindent = true
