@@ -20,8 +20,6 @@ end
 
 -- shortcuts to commands
 do 
-  -- remove highlighting
-  vim.keymap.set("n", "<leader>s", "<CMD>nohls<CR>")
   -- summon the terminal
   vim.keymap.set("n", "<leader>ct", "<CMD>terminal<CR>i")
   -- summon lazygit

@@ -17,7 +17,7 @@ vim.opt.smarttab = true
 
 vim.opt.wrap = false
 
-vim.opt.hlsearch = true
+vim.opt.hlsearch = false
 vim.opt.incsearch = true
 
 vim.opt.termguicolors = true
