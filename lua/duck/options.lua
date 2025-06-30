@@ -25,4 +25,6 @@ vim.opt.termguicolors = true
 vim.opt.scrolloff = 15
 vim.g.mapleader = ' '
 
+vim.cmd("set clipboard+=unnamedplus")
+
 vim.cmd.colorscheme("kanagawa")
